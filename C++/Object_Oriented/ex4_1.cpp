@@ -27,4 +27,4 @@ int main(){
     p = &pizza;
     cout << p->getArea() << endl; // pizza의 getArea() 호출
     cout << (*p).getArea() << endl; // pizza의 getArea() 호추
-출
+};

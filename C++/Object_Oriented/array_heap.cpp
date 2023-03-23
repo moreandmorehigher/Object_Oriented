@@ -45,5 +45,5 @@ void do_something(size_t size)
 
 int main()
 {
-	do_something(100);
+	do_something(108);
 }
