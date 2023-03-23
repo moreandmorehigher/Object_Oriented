@@ -1,4 +1,7 @@
+#include "array_heap.h"
 #include <iostream>
+
+using namespace N;
 using namespace std;
 
 void do_something(size_t size)
